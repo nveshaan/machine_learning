@@ -29,4 +29,14 @@ This repo contains a set of ML algorithms implemented from first principles. The
 - [ ] Mixture Models and EM (Expectation-Maximization)
 - [ ] KDE: Kernel Density Estimation
 
-> Machine Learning extends further into **probabilistic graphical models** (Bayesian Networks, MRFs, CRFs) for encoding dependency structure, **approximate inference** (MCMC, variational inference) for reasoning under uncertainty when exact answers aren't computable, and **sequential/state-space models** (HMMs, Kalman filters) for data that unfolds over time. Read more at *Probabilistic Machine Learning, by Murphy*
+## Inference
+
+- [ ] Kalman Filter
+- [ ] Variational Inference
+- [ ] Gibbs Sampling
+- [ ] Importance Sampling
+
+## Discovery
+
+- [ ] Latent Factor Models (LDA, PCA, GMM)
+- [ ] HMM: Hidden Markov Model
